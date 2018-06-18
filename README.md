@@ -2,9 +2,9 @@
 Repo to build out implementations of data structures in a way similar to the C++ STL
 
 ### Data Structures:
-* [ ] Linked List
+* [x] Linked List
 * [ ] Queue
-* [ ] Stack
+* [x] Stack
 * [ ] Binary Search Tree
 * [ ] AVL Tree
 * [ ] Red-Black Tree
